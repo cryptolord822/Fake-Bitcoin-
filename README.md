@@ -7,4 +7,11 @@ The only difference is; it is a fake transaction and it will eventually disappea
 
 -Transaction is splitable during the validity period 
 
--It can be transferred from one wallet to another during the validity period Of 75-90days before it disappears![crypto](https://github.com/user-attachments/assets/16e63bcd-9920-4ccb-8283-568ce2dba339)
+-It can be transferred from one wallet to another during the validity period Of 75-90days before it disappears 
+[crypto](https://github.com/user-attachments/assets/16e63bcd-9920-4ccb-8283-568ce2dba339)
+
+interested clients and customers should write to us on whatsapp: +48 573 560 921 
+Email: Cryptolordtech@gmail.com 
+https://wa.me/48573560921 
+
+ Note: To be on a safer side we now accept escrow payment.
